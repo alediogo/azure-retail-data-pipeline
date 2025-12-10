@@ -1,0 +1,4 @@
+.env
+__pycache__/
+*.csv
+pipeline_vendas.log
