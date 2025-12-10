@@ -151,3 +151,6 @@ JOIN [dbo].[DimProduto] P ON V.ID_Produto = P.ID_Produto
 ORDER BY V.DataVenda DESC;
 
 ```
+
+## 📊 Resultado da Consulta
+![Resultado SQL](img/resultado_query.png)
