@@ -1,3 +1,13 @@
+<div align="center">
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Data Engineering](https://img.shields.io/badge/Data%20Engineering-Pipeline-orange?style=for-the-badge)
+
+</div>
+
 # 🛒 Azure Retail Data Pipeline
 
 Pipeline de Engenharia de Dados ETL (Extract, Transform, Load) que simula um ambiente de varejo, gerando dados transacionais e carregando-os em um Data Warehouse na nuvem (Azure SQL Database).
